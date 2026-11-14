@@ -1,4 +1,4 @@
-# Dencil Montales Portfolio
+# Dincel Montales Portfolio
 
 This portfolio has a PHP page, separate CSS and JavaScript files, and MySQL-backed rating and comment CRUD.
 
